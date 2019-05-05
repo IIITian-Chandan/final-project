@@ -1,0 +1,9 @@
+{
+   "hyperdash_key":"SQ2PTO0EsRQRXldNDT3+hmjV2/rSKnBViePQaE8A4fg=",
+   "train_csv":"triplets_data_train.csv",
+   "test_csv":"triplets_data_test.csv",
+   "val_csv":"triplets_data_val.csv",
+   "job_dir":"/home/ubuntu/filestore/deepranking_exp3",
+   "data_path":"/home/ubuntu/filestore/deepranking_exp3/test_dataset/",
+   "vector-size":4096
+}
